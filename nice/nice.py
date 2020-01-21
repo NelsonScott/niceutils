@@ -1,4 +1,7 @@
 """Main module."""
 
-def say_hello():
-    print('hi')
+def parents(klass):
+    parent_classes = klass.mro()
+    parent_classes.remove(klass)
+
+    return parent_classes
