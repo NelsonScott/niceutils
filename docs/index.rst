@@ -1,4 +1,4 @@
-Welcome to nice's documentation!
+Welcome to niceutils's documentation!
 ======================================
 
 .. toctree::

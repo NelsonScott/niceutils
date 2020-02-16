@@ -2,6 +2,6 @@
 Usage
 =====
 
-To use nice in a project::
+To use niceutils in a project::
 
-    import nice
+    import niceutils

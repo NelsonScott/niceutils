@@ -1,4 +1,4 @@
-* nice version:
+* niceutils version:
 * Python version:
 * Operating System:
 

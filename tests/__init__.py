@@ -1,1 +1,1 @@
-"""Unit test package for nice."""
+"""Unit test package for niceutils."""

@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 
-"""Tests for `nice` package."""
+"""Tests for `niceutils` package."""
 
 import pytest
 
 
-from nice import nice
+from niceutils import niceutils
 
 
 @pytest.fixture

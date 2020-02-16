@@ -1,17 +1,17 @@
 ====
-nice
+niceutils
 ====
 
 
 
 
-.. image:: https://pyup.io/repos/github/scottnelson/nice/shield.svg
-     :target: https://pyup.io/repos/github/scottnelson/nice/
+.. image:: https://pyup.io/repos/github/scottnelson/niceutils/shield.svg
+     :target: https://pyup.io/repos/github/scottnelson/niceutils/
      :alt: Updates
 
 
 
-Nice things for Developing python stuff at Peloton
+niceutils things for Developing python stuff at Peloton
 
 
 
