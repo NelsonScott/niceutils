@@ -36,7 +36,7 @@ setup(
     ],
     description="niceutils things for Developing python stuff",
     install_requires=requirements,
-    long_description=readme + "\n\n" + history,
+    long_description="Some Nice Utils for Python",
     include_package_data=True,
     keywords="niceutils",
     name="niceutils",
