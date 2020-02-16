@@ -11,7 +11,8 @@ niceutils
 
 
 
-niceutils things for Developing python stuff at Peloton
+niceutils things for Developing python stuff
+And more of a chance to try out cookiecutter
 
 
 
