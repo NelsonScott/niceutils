@@ -34,7 +34,7 @@ setup(
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
     ],
-    description="niceutils things for Developing python stuff at Peloton",
+    description="niceutils things for Developing python stuff",
     install_requires=requirements,
     long_description=readme + "\n\n" + history,
     include_package_data=True,
