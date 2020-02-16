@@ -31,4 +31,4 @@ def simple_timer():
 
 
 def readable_datetime(timestamp):
-    print date.fromtimestamp(timestamp).strftime("%B %d %Y, %I:%M:%S %p")
+    print(date.fromtimestamp(timestamp).strftime("%B %d %Y, %I:%M:%S %p"))
